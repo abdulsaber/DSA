@@ -1,4 +1,7 @@
 # Practice 
+DAY-1
+
+1. practice operators, Conditional satatements.
 
 DAY-2
 
