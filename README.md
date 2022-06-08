@@ -13,3 +13,20 @@ DAY-2
 6. Write a Java method to find the smallest number among three numbers. 
 7. Write a Java method to print Fibonacci series of n terms where n is argument passed by user. 
 8. Write a program to find the factorial value of any number entered through the keyboard.
+
+
+DAY-3
+
+1. Learn Time and Space complexity.
+2. practice some questions
+
+DAY-4 (Array)
+
+1. Find the smallest element in the given Array. 
+2. Find the Third Largest Element in an Array.
+3. Check if the Array is Sorted.
+4. Reverse the given Array.
+5. Write a program to replace every element with the greatest element on its right side.
+
+        Expected Output: The given array is :758 9685746
+        After replace the modified array is: 9998877660
