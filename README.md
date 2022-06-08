@@ -21,11 +21,16 @@ DAY-3
 
 DAY-4 (Array)
 
-1. Find the smallest element in the given Array. 
-2. Find the Third Largest Element in an Array.
-3. Check if the Array is Sorted.
-4. Reverse the given Array.
-5. Write a program to replace every element with the greatest element on its right side.
+1. Search in an Array.
+2. Delete an element from an Array.
+3. Find the largest element in an Array.
+4. Find the second largest element in an Array.
+4. Remove the duplicates from a sorted Array.
+5. Find the smallest element in the given Array. 
+6. Find the Third Largest Element in an Array.
+7. Check if the Array is Sorted.
+8. Reverse the given Array.
+9. Write a program to replace every element with the greatest element on its right side.
 
         Expected Output: The given array is :758 9685746
         After replace the modified array is: 9998877660
