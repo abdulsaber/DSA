@@ -14,7 +14,6 @@ DAY-2
 7. Write a Java method to print Fibonacci series of n terms where n is argument passed by user. 
 8. Write a program to find the factorial value of any number entered through the keyboard.
 
-
 DAY-3
 
 1. Learn Time and Space complexity.
