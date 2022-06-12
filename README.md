@@ -32,5 +32,5 @@ DAY-4 (Array)
 8. Reverse the given Array.
 9. Write a program to replace every element with the greatest element on its right side.
 
-        Expected Output: The given array is :758 9685746
+        Expected Output: The given array is :7589685746
         After replace the modified array is: 9998877660
