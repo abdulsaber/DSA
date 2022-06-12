@@ -34,3 +34,9 @@ DAY-4 (Array)
 
         Expected Output: The given array is :7589685746
         After replace the modified array is: 9998877660
+
+DAY-5
+
+1. Leaders in Array
+2. Maximum sum subarray
+3. Container with water
