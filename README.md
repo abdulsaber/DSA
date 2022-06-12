@@ -37,6 +37,6 @@ DAY-4 (Array)
 
 DAY-5
 
-1. Leaders in Array
-2. Maximum sum subarray
-3. Container with water
+1. Leaders in Array.
+2. Maximum sum subarray.
+3. Container with water.
