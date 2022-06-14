@@ -43,14 +43,14 @@ DAY-5
 4. Trapping rain water problem.
 5. Print frequency of all the elements in a sirted Array.
 6. In an Array of all 0s and 1s, find the largest lenght of all consecutive 1s.
-     
-     Input: 1,1,1,0,0,1,1,1,1,0,1
-     Output: 4
+
+        Input: The given array is : 1,1,1,0,0,1,1,1,1,0,1
+        Output: 4
 
 7. Move all 0s to the en of the given Array.
 
-    Input: 8,0,3,0,0,5
-    Output: 8,1,3,5,0,0,0
+        Input: 8,0,3,0,0,5
+        Output: 8,1,3,5,0,0,0
 
 8. Trapping rain water problem in O(1) space complexity.
 9. Minimum Sum Subarray problem.
