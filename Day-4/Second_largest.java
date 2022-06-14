@@ -16,6 +16,7 @@ public class Second_largest {
         }
 
         System.out.println("Second largest element in an Array: "+ arr[second_largest]);
+        
     }
     
 }
