@@ -59,4 +59,28 @@ DAY-5
 
 DAY-6
 
-1.
+1. Find if there is a subarray with 0 sum.
+2. Transpose of a Matrix.
+3. Rotate a Matrix 90 degree clockwise.
+4. Search element in Row-wise and Column-wise Sorted Matrix.
+5. Split array in three equal sum subarray.
+6. Find the largest subarray with equal numbers of 0s and 1s.
+7. Majority Elements Problem- Find the element that repeats more than n/2 times.
+8. Left Rotate an Array by 1 step.
+9. Left Rotate an Array by k steps.
+
+DAY-7
+
+1. Given an array arr[i], find the maximum j-i such that arr[j]>arr[i].
+2. Find two numbers in a sorted Array with the given Sum.
+3. Find three Numbers in an unsorted Array with the Given sum.
+
+DAY-8(Recursion & Backtracking)
+
+1. Sum of n Natural Numbers using Resursion.
+2. Power of a Number using Recursion.
+3. Find the Number of paths in an nxm Matrix.
+4. Check if an array is a Palindrome using Resursion.
+5. Factorial of a number using Resursion.
+6. Find the sum of square of N Natural numbers using Resursion.
+7. Find the Greatest common divisor(GCD).
