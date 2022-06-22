@@ -84,3 +84,12 @@ DAY-8(Recursion & Backtracking)
 5. Factorial of a number using Resursion.
 6. Find the sum of square of N Natural numbers using Resursion.
 7. Find the Greatest common divisor(GCD).
+
+DAY-9
+
+1. Find the sum of digits in a number using Recursion.
+2. Generate all subsets/subsequence of a String.
+3. Tower of Hanoi Problem.
+4. Print all peermutations of a given String.
+5. Rope Cutting Problem- Maximise the number of rods after cutting a rod with three given sizes.
+6. Josephus Problem.
