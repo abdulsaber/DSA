@@ -93,3 +93,10 @@ DAY-9
 4. Print all peermutations of a given String.
 5. Rope Cutting Problem- Maximise the number of rods after cutting a rod with three given sizes.
 6. Josephus Problem.
+
+DAY-10
+
+1. Rat in a Maze Problem.
+2. N Queens Problem.
+3. Sudoku Solver Problem.
+4. Subset sum Problem.
