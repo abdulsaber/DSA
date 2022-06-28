@@ -100,3 +100,23 @@ DAY-10
 2. N Queens Problem.
 3. Sudoku Solver Problem.
 4. Subset sum Problem.
+
+DAY-11
+
+1. Palindrome numbers.
+2. GCD or HCF of two numbers.
+3. LCM of two numbers.
+4. Trailing Zeros in factorial.
+5. Unique Paths in a grid.
+6. Calculate square roots of an equation.
+
+DAY-12
+
+1. Check prime or not.
+2. Efficient & More Efficient solution for prime.
+3. Print all divisors of N.
+4. Sieve of Eratosthenes.
+5. Fast power, Calculate pow(a,b).
+6. Calculate a^b mod n for large values of a & b.
+7. Prime factors of a fiven number.
+
