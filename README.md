@@ -75,7 +75,7 @@ DAY-7
 2. Find two numbers in a sorted Array with the given Sum.
 3. Find three Numbers in an unsorted Array with the Given sum.
 
-DAY-8(Recursion & Backtracking)
+DAY-8 (Recursion & Backtracking)
 
 1. Sum of n Natural Numbers using Resursion.
 2. Power of a Number using Recursion.
@@ -101,7 +101,7 @@ DAY-10
 3. Sudoku Solver Problem.
 4. Subset sum Problem.
 
-DAY-11
+DAY-11 (Mathematics)
 
 1. Palindrome numbers.
 2. GCD or HCF of two numbers.
@@ -113,10 +113,34 @@ DAY-11
 DAY-12
 
 1. Check prime or not.
-2. Efficient & More Efficient solution for prime.
-3. Print all divisors of N.
-4. Sieve of Eratosthenes.
-5. Fast power, Calculate pow(a,b).
-6. Calculate a^b mod n for large values of a & b.
-7. Prime factors of a fiven number.
+2. Efficient &
+3. More Efficient solution for prime.
+4. Print all divisors of N.
+5. Sieve of Eratosthenes.
+6. Fast power, Calculate pow(a,b).
+7. Calculate a^b mod n for large values of a & b.
+8. Prime factors of a given number.
+
+DAY-13 (Bits Manipulation)
+
+1. Find the "i"th bit.
+2. Toggle the 'i'th bit.
+3. Check if a number is power of two.
+4. Count the number of set bits in a number.
+5. Check if a number is even or odd.
+6. Swap two numbers without using third variable.
+7. Set the i th bit to 1.
+8. Unset the i th bit/ change i th bit to 0.
+9. Given a number N, the task to find the XOR of all numbers from 1 to N.
+10. How many bits are required to change to convert to one number to another.
+
+DAY-14
+
+1. Find the only non-repeating element in an array where every other element repeats twice.
+2. Find the two non-repeating element in an array where every other element repeats twice.
+3. Swap two bits in a given integer.
+4. Reverse the bits of an 32 bit unsigned integer.
+5. Find the only non-repeating element in an array where every other element repeats thrice.
+
+DAY-15
 
