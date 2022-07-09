@@ -142,5 +142,28 @@ DAY-14
 4. Reverse the bits of an 32 bit unsigned integer.
 5. Find the only non-repeating element in an array where every other element repeats thrice.
 
-DAY-15
+DAY-15 (Strings)
 
+1. Check if two Strings are Anagram of each other.
+2. Reverse the words in a given String.
+3. Check if String is a subsequence of another string.
+4. Find the leftmost character that repeats in a String.
+5. Find the length of the last word in a given strring.
+
+DAY-16
+
+1. Patterrn matching.
+2. Rabin Karp Algorithm.
+3. Check if Strings are rotations.
+4. Find the lomgest substring with distinct characters.
+
+DA-17 (Sorting Algorithms)
+
+1. Bubble sort.
+2. Insertion sort.
+3. Selection sort.
+4. Intersection of two sorted arrays.
+5. Sort an array with three types of elements.
+6. Union of two sorted arrays.
+7. Find the minimun between two elements in an array.
+8. Sort an array of two types of elements.
