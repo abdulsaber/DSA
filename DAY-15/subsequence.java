@@ -1,7 +1,7 @@
 public class subsequence {
     public static void main(String[] args) {
-        String s = "i am saber";
-        String b = "i am";
+        String s = "baacd";
+        String b = "abc";
         //String s = a + b;
 
         System.out.println(check(s, b));
