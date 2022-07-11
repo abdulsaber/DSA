@@ -155,9 +155,9 @@ DAY-16
 1. Patterrn matching.
 2. Rabin Karp Algorithm.
 3. Check if Strings are rotations.
-4. Find the lomgest substring with distinct characters.
+4. Find the longest substring with distinct characters.
 
-DA-17 (Sorting Algorithms)
+DAY-17 (Sorting Algorithms)
 
 1. Bubble sort.
 2. Insertion sort.
@@ -167,3 +167,7 @@ DA-17 (Sorting Algorithms)
 6. Union of two sorted arrays.
 7. Find the minimun between two elements in an array.
 8. Sort an array of two types of elements.
+
+DAY-18
+
+1.
