@@ -170,4 +170,8 @@ DAY-17 (Sorting Algorithms)
 
 DAY-18
 
-1.
+1. Quick sort.
+2. Merge sort.
+3. Given a set of Strings, find the longest common prefix using Divide and Conquer.
+4. Strassen's Matrix Multiplication.
+5. Find closest pair of points using Divide and Conquer algorithm.
