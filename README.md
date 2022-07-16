@@ -175,3 +175,20 @@ DAY-18
 3. Given a set of Strings, find the longest common prefix using Divide and Conquer.
 4. Strassen's Matrix Multiplication.
 5. Find closest pair of points using Divide and Conquer algorithm.
+
+DAY-19 (Binary Search)
+
+1. Binary search.
+2. Index of the first occurrence of an element in a sorted arrar.
+3. Index of the last occurrence of an element in a sorted arrar.
+4. Count the occurance of elements in a sorted array
+5. Search in a sorted rotated array.
+6. Find the first position of 1 in a sorted array containing only 0s and 1s.
+7. Find the upper bound of an element in a sorted array.
+8. Given a sorted array with no duplicates A and a target value B, return the index if the target is found. If not, rerturn the index where it would be if it were inserrted in order.
+
+DAY-20
+
+1. Search an element in an infinite sorted aray.
+2. Find the square root an integer.
+3. Find the median of two sorted arrays.
