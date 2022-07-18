@@ -11,8 +11,8 @@ public class binarySearch {
         while(l <= r){
             int mid = (l+r)/2;
             if(a[mid]==key) return mid;
-            else if(a[mid] < key) l++;
-            else r--;
+            else if(a[mid] < key) l = mid +1;
+            else r = mid -1;;
         }
         return -1;
     }
