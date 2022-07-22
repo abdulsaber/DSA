@@ -190,5 +190,17 @@ DAY-19 (Binary Search)
 DAY-20
 
 1. Search an element in an infinite sorted aray.
-2. Find the square root an integer.
+2. Find the square root of an integer.
 3. Find the median of two sorted arrays.
+
+DAY-21
+
+1. Tree cutting problem.
+2. Books allocation problem.
+3. Aggressive cows problem.
+4. Given a matrix of integers A of size NxM in which each row is sorted. Find and return the overall median of the matrix A.
+5. Painter's partition problem.
+
+DAY-22 (Hashing)
+
+1. 
