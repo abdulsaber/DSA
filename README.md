@@ -203,4 +203,23 @@ DAY-21
 
 DAY-22 (Hashing)
 
-1. 
+1. Count distinct elements.
+2. Frerquency of Elements in an array.
+3. Pair with givin sum in unsorted array.
+4. Zerro sum subaray.
+5. Subarray with given sum.
+6. Intersection of Two Arrays.
+7. Union of two arrays.
+8. Find largest subarray with zero sum.
+9. Count distinct elements in every window of size k.
+
+DAY-23
+
+1. Largest subaarray with zero sum.
+2. Longest consecutive subsequence.
+3. Find any quadruple whose sum is equal to the given sum.
+4. Longest Substring without repeat.
+
+DAY-24
+
+
