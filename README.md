@@ -205,8 +205,8 @@ DAY-22 (Hashing)
 
 1. Count distinct elements.
 2. Frerquency of Elements in an array.
-3. Pair with givin sum in unsorted array.
-4. Zerro sum subaray.
+3. Pair with given sum in unsorted array.
+4. Zero sum subaray.
 5. Subarray with given sum.
 6. Intersection of Two Arrays.
 7. Union of two arrays.
@@ -220,6 +220,29 @@ DAY-23
 3. Find any quadruple whose sum is equal to the given sum.
 4. Longest Substring without repeat.
 
-DAY-24
+DAY-24 (LinkedList)
+
+1. Traverse, insert, delete in a LinkedList.
+2. Find the middle element in a LinkedList.
+3. Delete an element whose pointer is given in a LinkedList.
+4. Find the Kth element from last in a LinkedList.
+5. Remove duplicates from a sorted LinkedList.
+6. Sort a LinkedList using Bubble sort.
+7. Find the intersection of two LinkedList.
+8. Check if a Singly LinkedList ia a Palindrome.
+
+DAY-25 
+
+1. Reverse a LinkedList - iteratively.
+2. Reverse a LinkedList - recursively.
+3. Reverse a LinkedList in a group of k.
+4. Detect a cycle in a LinkedList.
+5. Palindrome LinkedList.
+6. Rotate a LinkedList by k nodes.
+7. Add two numbers (each digit is present inside a node of linkedList)
+
+DAY-26
+
+1.
 
 
