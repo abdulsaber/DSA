@@ -220,7 +220,7 @@ DAY-23
 3. Find any quadruple whose sum is equal to the given sum.
 4. Longest Substring without repeat.
 
-DAY-24 (LinkedList)
+DAY-24 (LinkedList) [incomplete]
 
 1. Traverse, insert, delete in a LinkedList.
 2. Find the middle element in a LinkedList.
@@ -243,6 +243,24 @@ DAY-25
 
 DAY-26
 
-1.
+1. Merge two sorted Linked Lists.
+2. Palindrome Linked List.
+3. Doubly Linked List implementation.
+4. Implement LRU cache.
+5. Clone a Linked List with next and random pointer.
+6. Given a Linked List A, reverse the order of all nodes at even positions.
 
+DAY-27 (Stack)
+
+1. Implementation of Stack using Array.
+2. Implementation of Stack using LinkedList.
+3. Parenthesis matching problem.
+4. Previous / Next greater element.
+5. Previous / Next less element.
+6. Reverse words in a given sentence.
+7. Reverse a stack using recursion.
+8. Reverse a stack without using extra space.
+9. Delete the mid element from a given stack.
+
+DAY-28
 
