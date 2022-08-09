@@ -259,8 +259,12 @@ DAY-27 (Stack)
 5. Previous / Next less element.
 6. Reverse words in a given sentence.
 7. Reverse a stack using recursion.
-8. Reverse a stack without using extra space.
+8. Reverse a stack without using extra space.[IC]
 9. Delete the mid element from a given stack.
 
 DAY-28
+
+1. Infix to postfix conversion.
+2. Infix to prefix conversion.
+3. Postfix expression to a prefix expression.
 
