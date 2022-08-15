@@ -285,5 +285,8 @@ DAY-30
 2. Implement queue using Array.
 3. Implement queue using circular Array.
 4. Implement queue using Two Stacks.
+5. Implement stack using Two Queues.
+6. Implement stack using One Queue.
+7. Reverse a Queue.
 
 
