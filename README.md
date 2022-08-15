@@ -265,6 +265,25 @@ DAY-27 (Stack)
 DAY-28
 
 1. Infix to postfix conversion.
-2. Infix to prefix conversion.
-3. Postfix expression to a prefix expression.
+2. Evaluate postfix expression.
+3. Infix to prefix conversion.
+4. Postfix expression to a prefix expression.
+
+DAY-29
+
+1. Implement two stacks using one array.
+2. Find maximum area in a  histogram.
+3. Find maximum area submatrix in a matrix.
+4. Implement minStack using O(n) extra space.
+5. implement k stack using Array.
+6. Implement minStack using O(1) space.
+7. Simply Directory Path.
+
+DAY-30
+
+1. Implement queue using Linked List.
+2. Implement queue using Array.
+3. Implement queue using circular Array.
+4. Implement queue using Two Stacks.
+
 
