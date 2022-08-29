@@ -220,7 +220,7 @@ DAY-23
 3. Find any quadruple whose sum is equal to the given sum.
 4. Longest Substring without repeat.
 
-DAY-24 (LinkedList) [incomplete]
+DAY-24 (LinkedList)
 
 1. Traverse, insert, delete in a LinkedList.
 2. Find the middle element in a LinkedList.
@@ -240,6 +240,7 @@ DAY-25
 5. Palindrome LinkedList.
 6. Rotate a LinkedList by k nodes.
 7. Add two numbers (each digit is present inside a node of linkedList)
+8. Merge a Linked List into another Linked List inside a node of Linked List.
 
 DAY-26
 
