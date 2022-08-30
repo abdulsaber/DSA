@@ -280,7 +280,7 @@ DAY-29
 6. Implement minStack using O(1) space.
 7. Simply Directory Path.
 
-DAY-30
+DAY-30 (Queue)
 
 1. Implement queue using Linked List.
 2. Implement queue using Array.
@@ -289,5 +289,16 @@ DAY-30
 5. Implement stack using Two Queues.
 6. Implement stack using One Queue.
 7. Reverse a Queue.
+
+DAY-31
+
+1. Reverse the first k elements of a Queue.
+2. Circular tour problem.
+3. Sliding window maximum problem.
+4. Flatten a multi-level linked List.
+
+DAY-32
+
+1. 
 
 
