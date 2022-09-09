@@ -193,7 +193,7 @@ DAY-20
 2. Find the square root of an integer.
 3. Find the median of two sorted arrays.
 
-DAY-21
+DAY-21 [IC]
 
 1. Tree cutting problem.
 2. Books allocation problem.
@@ -280,7 +280,7 @@ DAY-29
 6. Implement minStack using O(1) space.
 7. Simply Directory Path.
 
-DAY-30 (Queue)
+DAY-30 (Queue) [IC]
 
 1. Implement queue using Linked List.
 2. Implement queue using Array.
