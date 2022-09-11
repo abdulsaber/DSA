@@ -247,11 +247,11 @@ DAY-26
 1. Merge two sorted Linked Lists.
 2. Palindrome Linked List.
 3. Doubly Linked List implementation.
-4. Implement LRU cache.
+4. Implement LRU cache. [IC]
 5. Clone a Linked List with next and random pointer.
 6. Given a Linked List A, reverse the order of all nodes at even positions.
 
-DAY-27 (Stack)
+DAY-27 (Stack) 
 
 1. Implementation of Stack using Array.
 2. Implementation of Stack using LinkedList.
@@ -263,7 +263,7 @@ DAY-27 (Stack)
 8. Reverse a stack without using extra space.[IC]
 9. Delete the mid element from a given stack.
 
-DAY-28
+DAY-28 [IC]
 
 1. Infix to postfix conversion.
 2. Evaluate postfix expression.
@@ -280,7 +280,7 @@ DAY-29
 6. Implement minStack using O(1) space.
 7. Simply Directory Path.
 
-DAY-30 (Queue) [IC]
+DAY-30 (Queue) 
 
 1. Implement queue using Linked List.
 2. Implement queue using Array.
