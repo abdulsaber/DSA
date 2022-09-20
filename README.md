@@ -247,9 +247,9 @@ DAY-26
 1. Merge two sorted Linked Lists.
 2. Palindrome Linked List.
 3. Doubly Linked List implementation.
-4. Implement LRU cache. [IC]
+4. Implement LRU cache. 
 5. Clone a Linked List with next and random pointer.
-6. Given a Linked List A, reverse the order of all nodes at even positions.
+6. Given a Linked List A, reverse the order of all nodes at even positions.[IC]
 
 DAY-27 (Stack) 
 
