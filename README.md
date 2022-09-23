@@ -263,7 +263,7 @@ DAY-27 (Stack)
 8. Reverse a stack without using extra space.[IC]
 9. Delete the mid element from a given stack.
 
-DAY-28 [IC]
+DAY-28 
 
 1. Infix to postfix conversion.
 2. Evaluate postfix expression.
