@@ -276,7 +276,7 @@ DAY-29
 2. Find maximum area in a  histogram.
 3. Find maximum area submatrix in a matrix.
 4. Implement minStack using O(n) extra space.
-5. implement k stack using Array.
+5. implement k stack using Array. [IC]
 6. Implement minStack using O(1) space.
 7. Simply Directory Path.
 
@@ -297,8 +297,19 @@ DAY-31
 3. Sliding window maximum problem.
 4. Flatten a multi-level linked List.
 
-DAY-32
+DAY-32 (tree)
 
-1. 
+1. Binary tree.
+2. Inorder, preorder, postorder traversal in binary tree.
+3. Height of a binary tree.
+4. Print all the nodes present at a distance k from Root.
+5. Size of a binary tree.
+6. Maximum/ minimum in a binary tree.
+7. Inorder, preorder, postorder traversal without using recursion.
+
+DAY-33
+
+1.
+
 
 
