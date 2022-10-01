@@ -309,7 +309,16 @@ DAY-32 (tree)
 
 DAY-33
 
-1.
+1. Binary tree level order traversal [LC- 102].
+2. Binary tree right side view [LC- 199].
+3. Top view of a binary tree.
+4. Print the zig-zag order traversal of a binary tree.
+5. Print the left view of a binary tree.
+6. Print the bottom view of a binary tree.
+7. Modified vertical order traversal.
+8. Cousins in a binary tree.
+9. Populate the next pointer in each node.
+
 
 
 
