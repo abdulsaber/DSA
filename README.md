@@ -318,6 +318,7 @@ DAY-33
 7. Modified vertical order traversal.
 8. Cousins in a binary tree.
 9. Populate the next pointer in each node.
+10. Vertical Order Traversal of a Binary Tree.
 
 
 
