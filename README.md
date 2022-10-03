@@ -315,10 +315,17 @@ DAY-33
 4. Print the zig-zag order traversal of a binary tree.
 5. Print the left view of a binary tree.
 6. Print the bottom view of a binary tree.
-7. Modified vertical order traversal.
+7. Modified vertical order traversal.[IC]
 8. Cousins in a binary tree.
 9. Populate the next pointer in each node.
 10. Vertical Order Traversal of a Binary Tree.
+
+DAY-34
+
+1. Inorder/ preorder/ postorder traversal without recursion.
+2. Diameter of a binary tree.
+3. Postorder of a binary tree without using two stacks.
+4. Morris traversal.
 
 
 
