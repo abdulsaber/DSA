@@ -327,12 +327,12 @@ DAY-34
 3. Postorder of a binary tree without using two stacks.
 4. Morris traversal.[IC]
 
-DAY-34
+DAY-35
 
 1. Print all the ancestors of a given node in a binary tree.
 2. Lowest common ancestor of a binary tree.
 3. Convert a binary tree to a doubly linkedlist.
-4. Burn a binary tree starting from a leaf node.
+4. Burn a binary tree starting from a leaf node.[IC]
 
 
 
