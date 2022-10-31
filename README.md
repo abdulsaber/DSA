@@ -325,7 +325,7 @@ DAY-34
 1. Inorder/ preorder/ postorder traversal without recursion.
 2. Diameter of a binary tree.
 3. Postorder of a binary tree without using two stacks.
-4. Morris traversal.[IC]
+4. Morris traversal.
 
 DAY-35
 
@@ -333,6 +333,10 @@ DAY-35
 2. Lowest common ancestor of a binary tree.
 3. Convert a binary tree to a doubly linkedlist.
 4. Burn a binary tree starting from a leaf node.[IC]
+
+DAY-36
+
+1.
 
 
 
