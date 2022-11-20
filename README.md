@@ -297,7 +297,7 @@ DAY-31
 3. Sliding window maximum problem.
 4. Flatten a multi-level linked List.
 
-DAY-32 (tree)
+DAY-32 (Binary Tree)
 
 1. Binary tree.
 2. Inorder, preorder, postorder traversal in binary tree.
@@ -332,11 +332,13 @@ DAY-35
 1. Print all the ancestors of a given node in a binary tree.
 2. Lowest common ancestor of a binary tree.
 3. Convert a binary tree to a doubly linkedlist.
-4. Burn a binary tree starting from a leaf node.[IC]
+4. Burn a binary tree starting from a leaf node.
 
-DAY-36
+DAY-36 (Binary Search Tree)
 
-1.
+1. Search in BST.
+2. Insert an element in a BST.
+3. Delete an element in a BST.
 
 
 
