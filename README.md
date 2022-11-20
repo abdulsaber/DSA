@@ -339,6 +339,11 @@ DAY-36 (Binary Search Tree)
 1. Search in BST.
 2. Insert an element in a BST.
 3. Delete an element in a BST.
+4. Check if a binary tree is BST.
+5. Convert a sorted array to balanced BST.
+6. Check if a given array can represent preorder traversal of BST.
+7. Second largest element in BST.
+8. Print BST keys in given range.
 
 
 
