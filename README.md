@@ -345,6 +345,16 @@ DAY-36 (Binary Search Tree)
 7. Second largest element in BST.
 8. Print BST keys in given range.
 
+DAY-37
+
+1. Check if a binary tree is BST.
+2. Shortest distance between two nodes in BST.
+3. Find a pair with given target sum in a BST.
+4. Find floor and ceil values in a BST.
+5. Construct a BST from given preorder traversal.
+
+DAY-38
+
 
 
 
