@@ -353,7 +353,13 @@ DAY-37
 4. Find floor and ceil values in a BST.
 5. Construct a BST from given preorder traversal.
 
-DAY-38
+DAY-38 (AVL Tree)
+
+1. Insertion & Rotations.
+
+DAY-39 (Heap)
+
+1. 
 
 
 
