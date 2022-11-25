@@ -357,9 +357,7 @@ DAY-38 (AVL Tree)
 
 1. Insertion & Rotations.
 
-DAY-39 (Heap)
 
-1. 
 
 
 
