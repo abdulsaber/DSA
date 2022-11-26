@@ -357,7 +357,11 @@ DAY-38 (AVL Tree)
 
 1. Insertion & Rotations.
 
+Day-39 (Heap)
 
+1. Insertion in heaps.
+2. Deletion in heaps & heapify.
+3. Implement insertion and deletion for MaxHeap.
 
 
 
