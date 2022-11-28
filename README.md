@@ -363,6 +363,10 @@ Day-39 (Heap)
 2. Deletion in heaps & heapify.
 3. Implement insertion and deletion for MaxHeap.
 
+DAY-40 (Priority queue)
+
+1. 
+
 
 
 
