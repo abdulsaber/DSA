@@ -365,7 +365,8 @@ Day-39 (Heap)
 
 DAY-40 (Priority queue)
 
-1. 
+1. Implementation
+2. Insertion and deletion
 
 
 
