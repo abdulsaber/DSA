@@ -365,8 +365,12 @@ Day-39 (Heap)
 
 DAY-40 (Priority queue)
 
-1. Implementation
-2. Insertion and deletion
+1. Heap sort.
+2. Find the kth largest element in an array.
+3. Maximum sum of at most two non-overlapping intervals in a list of intervals.
+4. Split Array into K non-overlapping subset such that maximum among all subset sum is minimum.
+5. Maximize profit possible by selling M products such that profit of a product is the number of products left of that supplier.
+
 
 
 
