@@ -371,6 +371,20 @@ DAY-40 (Priority queue)
 4. Split Array into K non-overlapping subset such that maximum among all subset sum is minimum.
 5. Maximize profit possible by selling M products such that profit of a product is the number of products left of that supplier.
 
+DAY-41
+
+1. Connect n ropes with minimum cost.
+2. Split Array into K subset such that maximum among all subset sum is minimum.
+3. Find the median in a running steam of numbers.
+4. Merge k sorted lists.
+5. Check if a given array represents a binary heap.
+6. Magicians and chocolates.
+7. N max pair combinations.
+
+DAY-42
+
+1.
+
 
 
 
