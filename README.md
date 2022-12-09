@@ -381,9 +381,11 @@ DAY-41
 6. Magicians and chocolates.
 7. N max pair combinations.
 
-DAY-42
+DAY-42 (Disjoint sets)
 
-1.
+1. Implementation of union-find.
+2. Union-find with rank.
+3. Union-find with path compression.
 
 
 
