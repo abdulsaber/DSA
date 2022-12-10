@@ -1,0 +1,43 @@
+public class unionFind_PathCompression {
+    int[] parent, rank;
+
+    public unionFind_PathCompression(int n) {
+        parent = new int[n];
+        rank = new int[n];
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+    }
+
+    //path compression
+    int find(int x) {
+        if (parent[x] != x){
+            parent[x] = find(parent[x]);
+        }
+
+            return parent[x];
+    }
+
+    void union(int a, int b) {
+        int captainA = find(a);
+        int captainB = find(b);
+        if (captainA == captainB)
+            return;
+        if (rank[captainA] < rank[captainB]) {
+            parent[captainA] = captainB;
+        } else if (rank[captainB] < rank[captainA]) {
+            parent[captainB] = captainA;
+        } else {
+            parent[captainB] = captainA;
+            rank[captainA]++;
+        }
+
+    }
+
+    boolean isConnected(int a, int b) {
+        int captainA = find(a);
+        int captainB = find(b);
+
+        return (captainA == captainB);
+    }
+}
