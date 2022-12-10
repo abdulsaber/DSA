@@ -387,6 +387,12 @@ DAY-42 (Disjoint sets)
 2. Union-find with rank.
 3. Union-find with path compression.
 
+DAY-43 (Graphs)
+
+1. Graphs using adjacency list & matrix.
+2. DFS traversal.
+3. BFS traversal.
+
 
 
 
