@@ -9,6 +9,7 @@ public class graphs {
 
     void addEdge(int src, int dest){
         a[src][dest] = 1;
+        a[dest][src] = 1;
     }
 
     public static void main(String[] args) {
