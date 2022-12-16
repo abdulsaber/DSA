@@ -397,12 +397,10 @@ DAY-44
 
 1. Number of connected components in a graph.
 2. Shortest Path in a graph.
-3. Detect a cycle in an undirected graph.
+3. Detect a cycle in an undirected graph. [IC]
 4. Detect a cycle in an directed graph.
 5. Chech weather a given graph is bipartite or not.
 6. Check weather a path exists.
-
-DAY- 3434
 
 
 
