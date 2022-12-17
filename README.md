@@ -402,6 +402,11 @@ DAY-44
 5. Chech weather a given graph is bipartite or not.
 6. Check weather a path exists.
 
+DAY-45
+
+have to solve some problems on graphs.
+TBC
+
 
 
 
