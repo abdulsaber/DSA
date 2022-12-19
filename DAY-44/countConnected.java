@@ -1,4 +1,6 @@
 public class countConnected {
+
+    //a = adjecency list
     
     public static boolean dfs(int src, boolean vis[]){
         vis[src] = true;
