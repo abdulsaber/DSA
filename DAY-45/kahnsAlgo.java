@@ -5,7 +5,7 @@ import java.util.LinkedList;
 public class kahnsAlgo {
     public static ArrayList<Integer> topologicalSort(int[] indeg, int v) {
         //indegree(); calling indegree function
-        Queue<Integer> q = new LinkedList<>();
+        ArrayDeque<Integer> q = new ArrayDeque<>();
         for(int i = 0; i < v; i++){
             if(indeg[i] == 0){
                 q.add(i);
