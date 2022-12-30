@@ -405,10 +405,10 @@ DAY-44
 DAY-45
 
 1. InDegree of a directed graph.
-2. Topological sorting in a graph.
+2. Topological sorting using DFS in a graph.
 3. Kahn's algorithm - Topological sorting using BFS.
 4. Detect a cycle in a directed graph using kahn's algorithm.
-5. Shortest path in a directed acyclic graph.
+5. Shortest path in a directed acyclic graph. [IC]
 
 
 
