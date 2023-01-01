@@ -410,6 +410,10 @@ DAY-45
 4. Detect a cycle in a directed graph using kahn's algorithm.
 5. Shortest path in a directed acyclic graph. [IC]
 
+DAY-46
+
+1. Advance graph
+
 
 
 
