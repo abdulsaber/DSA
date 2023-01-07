@@ -412,10 +412,14 @@ DAY-45
 
 DAY-46
 
-1. Shortest path.
-2. MST using krushkal
-3. Prim's algo
-4. Dikshtra algo
+1. Shortest path in a directed acyclic graph.
+2. MST using kruskal algorithm.
+3. Prim's algorithm.
+4. Dijkstra's algorithm.
+
+DAY-47
+
+1.
 
 
 
