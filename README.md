@@ -412,7 +412,11 @@ DAY-45
 
 DAY-46
 
-1. Advance graph
+1. Shortest path.
+2. MST using krushkal
+3. Prim's algo
+4. Dikshtra algo
+
 
 
 
