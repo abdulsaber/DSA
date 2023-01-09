@@ -417,9 +417,15 @@ DAY-46
 3. Prim's algorithm.
 4. Dijkstra's algorithm.
 
-DAY-47
+DAY-47 (Greedy algorithm)
 
-1.
+1. Negative weight cycle in a graph.
+2. Bellman Ford Algorithm.
+3. Fractional knapsack problem.
+4. Activity selection problem.
+5. Wine selling problem.
+6. Minimum product subset of an array.
+7. Maximum sum of absolute difference of any permutation.
 
 
 
