@@ -427,6 +427,15 @@ DAY-47 (Greedy algorithm)
 6. Minimum product subset of an array.
 7. Maximum sum of absolute difference of any permutation.
 
+DAY-48
+
+1. Minimum number of platforms.
+2. Minimum cost to cut a board into squares.
+3. Huffman Compression Algorithm.
+4. Find maximum equal sum of every three stacks.
+5. Paper cut into minimum number of squares.
+6. Assign mice to holes.
+
 
 
 
