@@ -419,10 +419,10 @@ DAY-46
 
 DAY-47 (Greedy algorithm)
 
-1. Negative weight cycle in a graph.
-2. Bellman Ford Algorithm.
+1. Negative weight cycle in a graph.[IC]
+2. Bellman Ford Algorithm.[IC]
 3. Fractional knapsack problem.
-4. Activity selection problem.
+4. Activity selection problem.[IC..]
 5. Wine selling problem.
 6. Minimum product subset of an array.
 7. Maximum sum of absolute difference of any permutation.
