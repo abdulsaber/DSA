@@ -419,13 +419,13 @@ DAY-46
 
 DAY-47 (Greedy algorithm)
 
-1. Negative weight cycle in a graph.[IC]
-2. Bellman Ford Algorithm.[IC]
+1. Negative weight cycle in a graph.
+2. Bellman Ford Algorithm.
 3. Fractional knapsack problem.
-4. Activity selection problem.[IC..]
+4. Activity selection problem.
 5. Wine selling problem.
 6. Minimum product subset of an array.
-7. Maximum sum of absolute difference of any permutation.
+7. Maximum sum of absolute difference of any permutation.[IC]
 
 DAY-48
 
@@ -435,6 +435,16 @@ DAY-48
 4. Find maximum equal sum of every three stacks.
 5. Paper cut into minimum number of squares.
 6. Assign mice to holes.
+
+DAY-49 (Dynamic programming)
+
+1. Fibonacci series.
+2. Coin change probelm.
+3. Rod cutting problem.
+4. Ugly numbers.
+5. Permutations coefficient.
+6. Tiling problem.
+7. Compute nCr % p.
 
 
 
