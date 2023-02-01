@@ -446,6 +446,15 @@ DAY-49 (Dynamic programming)
 6. Tiling problem.
 7. Compute nCr % p.
 
+DAY-50
+
+1. Longest common subsequence.
+2. Minimum insertions/deletions to convert string a to string b.
+3. Longest common palindrome subsequence.
+4. Code LCS with space optimisation.
+5. Minimum length of the supersequence of string s1 and string s2.
+6. Longest repeating subsequence.
+
 
 
 
