@@ -455,6 +455,14 @@ DAY-50
 5. Minimum length of the supersequence of string s1 and string s2.
 6. Longest repeating subsequence.
 
+DAY-51
+
+1. Edit distance problem.
+2. Count number of ways to cover a distance.
+3. Minimum jumps to reach the end.
+4. Minimum jumps to reach the end- O(n).
+5. LCS using binary search.
+6. Given a set of non-negativev integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum.
 
 
 
