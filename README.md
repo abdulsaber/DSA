@@ -451,7 +451,7 @@ DAY-50
 1. Longest common subsequence.
 2. Minimum insertions/deletions to convert string a to string b.
 3. Longest common palindrome subsequence.
-4. Code LCS with space optimisation.
+4. Code LCS with space optimisation.[IC]
 5. Minimum length of the supersequence of string s1 and string s2.
 6. Longest repeating subsequence.
 
@@ -463,6 +463,18 @@ DAY-51
 4. Minimum jumps to reach the end- O(n).
 5. LCS using binary search.
 6. Given a set of non-negativev integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum.
+
+DAY-52
+
+1. Longest increasing subsequence.
+2. Maximum sum increasing subsequence.
+3. Maximum number of non-overlaping bridges.
+4. Matrix chain multiplication.
+5. Minimum numbers to be deleted to make an array sorted.
+6. Maximum length bitonic subsequence.
+7. Find the longest chain of pairs in a set of pairs.
+8. Wildcard pattern matching problem.
+
 
 
 
