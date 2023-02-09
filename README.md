@@ -475,6 +475,16 @@ DAY-52
 7. Find the longest chain of pairs in a set of pairs.
 8. Wildcard pattern matching problem.
 
+DAY-53
+
+1. Matric chain multiplication.
+2. Palindromic partitioning problem.
+3. Optimal strategy for a game.
+4. Count BSTs with n keys.
+5. Balloon Bursting Problem.
+6. Egg dropping puzzle.
+7. Word break problem.
+
 
 
 
